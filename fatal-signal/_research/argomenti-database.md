@@ -9,7 +9,7 @@ Scoring 1–10 per parametro. **Composito** = media dei 5.
 
 | Brand | Not | Dram | RPM | Ever | Foot | Composito | Tipo | Stato |
 |-------|-----|------|-----|------|------|-----------|------|-------|
-| Nokia | 10 | 9 | 8 | 10 | 9 | **9.2** | Declino | 🎯 EP001 |
+| Nokia | 10 | 9 | 8 | 10 | 9 | **9.2** | Declino | ✅ EP001 (pacchetto generato) |
 | BlackBerry | 9 | 9 | 8 | 9 | 8 | **8.6** | Declino | 🎯 EP002 |
 | Yahoo | 9 | 9 | 8 | 9 | 8 | **8.6** | Declino | 🎯 EP003 |
 | WeWork | 8 | 10 | 9 | 7 | 8 | **8.4** | Declino | 🎯 EP004 |

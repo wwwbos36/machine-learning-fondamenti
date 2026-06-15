@@ -12,7 +12,7 @@ Stati: `Selezione → Research → Fact-check → Outline → Script → Review 
 
 | EP | Argomento | Tipo | Fase attuale | Data target | Note |
 |----|-----------|------|--------------|-------------|------|
-| 001 | Nokia | Declino | Selezione | TBD | Banca lancio |
+| 001 | Nokia | Declino | Script (review umana) | TBD | Banca lancio · pacchetto FASI 1–9 generato; manca fact-check + montaggio |
 | 002 | BlackBerry | Declino | — | TBD | Banca lancio |
 | 003 | Yahoo | Declino | — | TBD | Banca lancio |
 | 004 | WeWork | Declino | — | TBD | Banca lancio |
