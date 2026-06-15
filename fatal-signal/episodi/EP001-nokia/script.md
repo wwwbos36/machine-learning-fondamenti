@@ -9,7 +9,7 @@
 
 [B-ROLL: INTRO-001 — cinematic slow dolly-in through a dark abstract corporate hallway, navy and amber]
 
-In the year 2007, one company sold around four out of every ten mobile phones on Earth. [DA VERIFICARE: ~40%]
+At the end of 2007, one company sold close to four out of every ten mobile phones on Earth. ✅ (~40% nel Q4 2007)
 
 [B-ROLL: vintage 2000s footage of people using Nokia phones, street scenes — STOCK/ARCHIVIO]
 
@@ -21,7 +21,7 @@ You probably owned one of its phones. Maybe your first phone. The one that survi
 
 [B-ROLL: TENS-001 — cracked office window overlooking a dark city]
 
-And yet, just six years later, this company sold its entire phone business to Microsoft — for a fraction of what it had once been worth. [DA VERIFICARE: vendita 2013]
+And yet, just six years later, this company sold its entire phone business to Microsoft — for a fraction of what it had once been worth. ✅ (2013)
 
 The strange part isn't that Nokia fell. Big companies fall. The strange part is this: Nokia saw the future coming. They had seen it years early. And they still couldn't move.
 
@@ -33,7 +33,7 @@ This is the story of how the most powerful name in phones went blind — not bec
 
 To understand the fall, you have to understand how unlikely the rise was.
 
-Nokia didn't start as a technology company. It started in 1865, in Finland, as a paper mill. [DA VERIFICARE: 1865/cartiera]
+Nokia didn't start as a technology company. It started in 1865, in Finland, as a paper mill — founded by a mining engineer named Fredrik Idestam. ✅
 
 [B-ROLL: archival images of rubber boots, cables, old factory — STOCK/ARCHIVIO]
 
@@ -41,7 +41,7 @@ For over a century, Nokia made things like paper, rubber boots, and cables. The 
 
 [B-ROLL: TRANS-001 — circuit board pull-back]
 
-Then, in the 1990s, Nokia's leadership made a bet that would define the company. They decided to pour everything into one emerging product: the mobile phone. [DA VERIFICARE: scommessa anni '90/Ollila]
+Then, in the 1990s, Nokia's leadership made a bet that would define the company. They decided to pour everything into one emerging product: the mobile phone.
 
 [B-ROLL: hands holding early-90s mobile phones — STOCK/ARCHIVIO]
 
@@ -55,11 +55,11 @@ Reliable. Simple. A battery that seemed to last forever. And a little game calle
 
 [B-ROLL: RISE-001 — glowing modern tech campus rising at dawn]
 
-In 1998, Nokia passed Motorola and became the number one mobile phone maker in the world. [DA VERIFICARE: 1998]
+In October 1998, Nokia passed Motorola and became the number one mobile phone maker in the world — a position it would hold for fourteen years. ✅
 
 [GRAFICO: market share line chart, Nokia climbing 1998–2007]
 
-And it didn't just lead. It dominated. By the mid-2000s, Nokia controlled close to forty percent of the entire global phone market. [DA VERIFICARE: ~40%]
+And it didn't just lead. It dominated. By the end of 2007, Nokia controlled close to forty percent of the entire global phone market. ✅
 
 [B-ROLL: world map lighting up with connections — HIGGSFIELD concettuale]
 
@@ -67,7 +67,7 @@ Think about what that means. In a market with dozens of competitors, almost half
 
 [B-ROLL: the Nokia 3310 in different hands, different countries — STOCK/ARCHIVIO]
 
-The Nokia 3310, launched in 2000, became one of the best-selling phones ever made. [DA VERIFICARE: 3310/2000/unità]
+The Nokia 3310, launched in 2000, became one of the best-selling phones ever made — around 126 million units. ✅
 
 [B-ROLL: vintage "Connecting People" branding — STOCK/ARCHIVIO]
 
@@ -81,7 +81,7 @@ At the top of the world, with more money, more engineers, and more market share 
 
 [B-ROLL: dramatic reveal of a 2007-era smartphone on dark background — HIGGSFIELD concettuale]
 
-In June 2007, a different company released a phone with no keypad. Just glass. [DA VERIFICARE: iPhone giugno 2007]
+On June 29, 2007, a different company released a phone with no keypad. Just glass. ✅
 
 [B-ROLL: finger swiping a glass touchscreen, macro — STOCK/ARCHIVIO]
 
@@ -89,7 +89,7 @@ The iPhone didn't just add a touchscreen. It changed what a phone was. A phone s
 
 [B-ROLL: app icons multiplying on a screen — HIGGSFIELD concettuale]
 
-And here is the detail that makes Nokia's story so haunting. Nokia had seen this coming. The company had experimented with touchscreens and internet-connected devices years before the iPhone. [DA VERIFICARE: prototipi Nokia]
+And here is the detail that makes Nokia's story so haunting. Nokia had seen this coming. The company had experimented with touchscreens and internet-connected devices years before the iPhone. [VERIFICARE dettaglio prototipi su fonte prima del montaggio]
 
 They had the engineers. They had the money. They had the warning.
 
@@ -97,7 +97,7 @@ They had the engineers. They had the money. They had the warning.
 
 So why didn't they react? For years, people blamed the technology — an aging operating system called Symbian, built for buttons, not for a world of apps.
 
-But the deeper answer came later, from researchers who studied what actually happened inside the company. [DA VERIFICARE: Huy & Vuori, INSEAD]
+But the deeper answer came later, from two researchers — Timo Vuori and Quy Huy — who studied what actually happened inside the company. ✅
 
 [B-ROLL: silhouettes in a tense meeting room, backlit — HIGGSFIELD concettuale]
 
@@ -115,7 +115,7 @@ Nokia wasn't blind. It had simply built a company where seeing clearly was dange
 
 [B-ROLL: TENS-001 — storm clouds reflected in glass]
 
-By 2011, the silence finally broke. Nokia's new CEO, Stephen Elop, wrote an internal memo to employees that leaked to the world. [DA VERIFICARE: Elop, memo 2011]
+By February 2011, the silence finally broke. Nokia's new CEO, Stephen Elop, wrote an internal memo to employees that leaked to the world. ✅
 
 [B-ROLL: text fragments on dark screen, "burning platform" — MOTION GRAPHIC]
 
@@ -123,7 +123,7 @@ He compared Nokia to a man standing on a burning oil platform, forced to jump in
 
 [B-ROLL: TRANS-001 — circuit board]
 
-Then came the decision that sealed it. Instead of joining Android — the open system that was rapidly winning with manufacturers like Samsung — Nokia bet its future on Microsoft's Windows Phone. [DA VERIFICARE: 2011 partnership]
+Then, just days later, came the decision that sealed it. On February 11, 2011, instead of joining Android — the open system that was rapidly winning with manufacturers like Samsung — Nokia bet its future on Microsoft's Windows Phone. ✅
 
 [B-ROLL: two ecosystems diverging visual — HIGGSFIELD concettuale]
 
@@ -135,7 +135,7 @@ The numbers fell fast. Market share, revenue, and the value of the company all c
 
 [B-ROLL: FALL-001 — empty office, melancholic]
 
-In 2013, Nokia sold its phone business — the business that had once ruled the world — to Microsoft for around seven billion dollars. [DA VERIFICARE: ~$7,2 mld / 2013]
+In September 2013, Nokia agreed to sell its phone business — the business that had once ruled the world — to Microsoft for about 5.4 billion euros, roughly seven billion dollars. The deal closed in April 2014. ✅
 
 For a company that had been worth far, far more at its peak, it was the quiet end of an empire.
 
@@ -145,11 +145,11 @@ For a company that had been worth far, far more at its peak, it was the quiet en
 
 So what happened to the name?
 
-Today, the Nokia brand you see on phones is licensed to a separate company. [DA VERIFICARE: HMD Global 2016] The phones lean on nostalgia and affordability — a shadow of the giant that once defined the category.
+Since 2016, the Nokia brand you see on phones has been licensed to a separate company, HMD Global. ✅ The phones lean on nostalgia and affordability — a shadow of the giant that once defined the category.
 
 [B-ROLL: 5G tower, network infrastructure, clean modern — STOCK/ARCHIVIO]
 
-And Nokia, the actual company, still exists — and is still large. But it left your pocket entirely. Today it builds the network infrastructure behind the scenes — the 5G equipment that carries the very phones that beat it. [DA VERIFICARE: Nokia networks/5G]
+And Nokia, the actual company, still exists — and is still large. But it left your pocket entirely. Today it builds the network infrastructure behind the scenes — the 5G equipment that carries the very phones that beat it. ✅
 
 [B-ROLL: Apple and Android devices in many hands — STOCK/ARCHIVIO]
 
@@ -181,6 +181,8 @@ The fatal flaw was a culture so afraid of bad news that it went blind to the fut
 - Durata stimata: ~13–15 min dopo espansione
 - Marcatori B-ROLL: 27
 - Marcatori GRAFICO: 4
-- ⚠️ Nota: lo script è volutamente leggermente sotto-lunghezza per lasciare spazio
-  ai dettagli verificati (cifre esatte, citazioni della ricerca, date) che vanno
-  inseriti DOPO il fact-check, non inventati ora.
+- ✅ FATTI VERIFICATI (vedi research.md Sez. 7). Resta da verificare solo il
+  dettaglio "prototipi touchscreen Nokia pre-iPhone" prima del montaggio.
+- ⚠️ TODO espansione: portare lo script a 1.800–2.300 parole aggiungendo
+  dettagli verificati (es. la dinamica Vuori & Huy più distesa, la cronologia
+  Symbian, qualche dato in più sull'ascesa). NON inventare cifre nuove.
