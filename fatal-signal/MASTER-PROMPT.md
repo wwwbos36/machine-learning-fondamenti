@@ -9,7 +9,8 @@ e digitali. Tesi ricorrente: ogni gigante è crollato per un singolo errore
 strategico evitabile — **"The Fatal Flaw"**.
 
 Stack: Claude Code (ricerca/script/titoli/metadata/shotlist) · Higgsfield (B-roll
-+ intro) · ElevenLabs (voce) · DaVinci Resolve (montaggio umano).
++ intro + audio voiceover, MiniMax Speech 2.8 HD voce Xavier) · DaVinci Resolve
+(montaggio umano). NB: voce = sempre Higgsfield, MAI ElevenLabs.
 Target: uomini 25–55, anglofoni Tier-1. RPM $4–24. 1 video/settimana. Lingua: inglese.
 
 ## Comandi

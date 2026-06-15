@@ -6,8 +6,7 @@ singolo errore strategico evitabile — "The Fatal Flaw".**
 
 ## Stack
 - **Claude Code** → ricerca, scripting, titoli, metadata, shotlist, anti-duplicazione
-- **Higgsfield** → B-roll cinematografico + intro firma
-- **ElevenLabs** → voce narrante unica e costante
+- **Higgsfield** → B-roll cinematografico + intro firma **+ audio voiceover (MiniMax Speech 2.8 HD, voce Xavier)**
 - **DaVinci Resolve** → montaggio finale (supervisione umana)
 
 ## Parametri canale

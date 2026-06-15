@@ -15,8 +15,9 @@
 Canale YouTube faceless **"Fatal Signal"**: mini-documentari cinematografici
 (12–16 min) sull'ascesa e caduta di marchi **tech/digitali**. Tesi ricorrente:
 ogni gigante è crollato per un singolo errore strategico — **"The Fatal Flaw"**.
-Stack: **Claude Code** (ricerca/script) · **Higgsfield** (B-roll/intro) ·
-**ElevenLabs** (voce) · **DaVinci Resolve** (montaggio umano).
+Stack: **Claude Code** (ricerca/script) · **Higgsfield** (B-roll/intro **+ audio
+voiceover: MiniMax Speech 2.8 HD, voce Xavier**) · **DaVinci Resolve** (montaggio
+umano). ⚠️ Voce SEMPRE Higgsfield, MAI ElevenLabs (decisione permanente utente).
 Lingua video: **inglese**. Cadenza: **1 video/settimana**.
 
 Documenti di riferimento (LEGGERE PRIMA DI LAVORARE):
@@ -41,7 +42,7 @@ Documenti di riferimento (LEGGERE PRIMA DI LAVORARE):
 ## 3. STATO ATTUALE — riepilogo rapido
 | Episodio | Stato | Cosa manca |
 |----------|-------|-----------|
-| **EP001 Nokia** | 🟢 SCRIPT PRONTO | Fatti ✅ verificati. Script ✅ espanso a ~2.050 parole (testo definitivo). Resta: voce ElevenLabs; generare B-roll Higgsfield (12 asset); montaggio DaVinci |
+| **EP001 Nokia** | 🟢 SCRIPT PRONTO | Fatti ✅ verificati. Script ✅ espanso a ~2.050 parole (testo definitivo). Resta: voiceover Higgsfield (MiniMax 2.8 HD/Xavier); generare B-roll Higgsfield (12 asset); montaggio DaVinci |
 | **EP002 BlackBerry** | 🟡 Parziale (avviato troppo presto) | Fatti ✅ verificati; mancano titoli, thumbnail, shotlist, metadata; espandere script. **DA RIPRENDERE SOLO DOPO EP001** |
 | EP003 Yahoo | ⚪ Non iniziato | tutto |
 | EP004 WeWork | ⚪ Non iniziato | tutto |
@@ -92,7 +93,7 @@ Modello usato: `kling3_0`, 5s, 16:9, ~10 crediti/clip.
 2. ✅ FATTO — EP001: script espanso a ~2.050 parole, narrazione definitiva.
 3. **[PROSSIMO] EP001: produzione asset visivi** — generare con Higgsfield i 12
    B-roll della shotlist (INTRO-001 e FEAR-001 già generati come test); reperire
-   stock/archivio; definire voce ElevenLabs; voiceover; montaggio DaVinci.
+   stock/archivio; voiceover in Higgsfield (MiniMax 2.8 HD, voce Xavier); montaggio DaVinci.
    → poi EP001 = PRONTO/PUBBLICABILE.
 4. SOLO DOPO che EP001 è chiuso: riprendere EP002 BlackBerry (titoli, thumb,
    shotlist, metadata, espansione script — i fatti sono già verificati).
@@ -101,6 +102,7 @@ Modello usato: `kling3_0`, 5s, 16:9, ~10 crediti/clip.
 ---
 
 ## 7. NOTE / DECISIONI APERTE
-- `voice_id` ElevenLabs: **DA DEFINIRE** (vedi `_brand/voice-notes.md`).
+- ✅ VOCE DECISA (permanente): **Higgsfield, MiniMax Speech 2.8 HD, voce Xavier**.
+  Generazione nella UI web Higgsfield (l'MCP qui espone solo Inworld TTS, non MiniMax).
 - Cifre contese BlackBerry da fissare su fonte primaria prima del montaggio.
 - Incidenti ricerca: 2 agenti background falliti (limite sessione + handoff malformato). Se ricapita, rilanciare la ricerca e NON procedere con fatti non verificati.
