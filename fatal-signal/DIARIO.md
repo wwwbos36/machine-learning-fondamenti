@@ -64,7 +64,8 @@ voce + montaggio). Titoli/thumb/shotlist/metadata già pronti (FASI 5–8).
 ### EP001 Nokia — `episodi/EP001-nokia/`
 - `research.md` ✅ **FATTI VERIFICATI con fonti** (Sez. 7). Correzioni applicate: ott 1998 (#1), regno 14 anni fino al 2012, picco ~40% fine 2007, memo Elop ~8 feb vs partnership MS 11 feb, acquisizione €5,44 mld chiusa apr 2014, ricerca Vuori & Huy ASQ 2016, HMD 18 mag 2016.
 - `outline.md` ✅
-- `script.md` ✅ ~2.050 parole, fatti verificati, narrazione pulita (note di verifica solo nel footer). Punto "prototipi" risolto (Nokia 7710 touchscreen 2004). TESTO DEFINITIVO pronto per voiceover.
+- `script.md` ✅ ~2.050 parole, fatti verificati, narrazione pulita. Punto "prototipi" risolto (Nokia 7710 touchscreen 2004). TESTO DEFINITIVO.
+- `audio-script.md` ✅ struttura audio voiceover-ready: 7 blocchi (capitoli), testo solo-narrazione pulito, ~1.810 parole, ~11:40 di parlato. Pronto da incollare in Higgsfield Speak (MiniMax 2.8 HD / Xavier). L'utente genera l'audio.
 - `titles.md` ✅ (consigliato #2: "Nokia Saw the Future — And Still Lost Everything")
 - `thumbnail-brief.md` ✅ · `shotlist-higgsfield.md` ✅ (9 scene Higgsfield, 33%) · `metadata.md` ✅
 - **Tesi EP001:** errore fatale = cultura della paura (la verità non saliva ai vertici; ricerca Huy & Vuori INSEAD).
