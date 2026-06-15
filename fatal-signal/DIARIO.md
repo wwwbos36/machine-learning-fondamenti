@@ -5,7 +5,7 @@
 > chat) possa importare i file e continuare senza perdere nulla.
 > **Aggiornare questo file ad OGNI passo significativo.**
 
-**Ultimo aggiornamento:** 2026-06-15 ~08:40 UTC
+**Ultimo aggiornamento:** 2026-06-15 ~08:55 UTC
 **Branch git:** `claude/loving-knuth-pc2kxd`
 **Repo path:** `/home/user/machine-learning-fondamenti/fatal-signal/`
 
@@ -41,7 +41,7 @@ Documenti di riferimento (LEGGERE PRIMA DI LAVORARE):
 ## 3. STATO ATTUALE — riepilogo rapido
 | Episodio | Stato | Cosa manca |
 |----------|-------|-----------|
-| **EP001 Nokia** | 🟢 QUASI PRONTO | Fatti ✅ VERIFICATI con fonti. Resta: verificare dettaglio "prototipi Nokia pre-iPhone"; espandere script a 1.800–2.300 parole; voce ElevenLabs; generare B-roll Higgsfield; montaggio |
+| **EP001 Nokia** | 🟢 SCRIPT PRONTO | Fatti ✅ verificati. Script ✅ espanso a ~2.050 parole (testo definitivo). Resta: voce ElevenLabs; generare B-roll Higgsfield (12 asset); montaggio DaVinci |
 | **EP002 BlackBerry** | 🟡 Parziale (avviato troppo presto) | Fatti ✅ verificati; mancano titoli, thumbnail, shotlist, metadata; espandere script. **DA RIPRENDERE SOLO DOPO EP001** |
 | EP003 Yahoo | ⚪ Non iniziato | tutto |
 | EP004 WeWork | ⚪ Non iniziato | tutto |
@@ -63,7 +63,7 @@ voce + montaggio). Titoli/thumb/shotlist/metadata già pronti (FASI 5–8).
 ### EP001 Nokia — `episodi/EP001-nokia/`
 - `research.md` ✅ **FATTI VERIFICATI con fonti** (Sez. 7). Correzioni applicate: ott 1998 (#1), regno 14 anni fino al 2012, picco ~40% fine 2007, memo Elop ~8 feb vs partnership MS 11 feb, acquisizione €5,44 mld chiusa apr 2014, ricerca Vuori & Huy ASQ 2016, HMD 18 mag 2016.
 - `outline.md` ✅
-- `script.md` 🟢 ~1.500 parole, fatti verificati (✅ inline), da espandere a 1.800–2.300
+- `script.md` ✅ ~2.050 parole, fatti verificati, narrazione pulita (note di verifica solo nel footer). Punto "prototipi" risolto (Nokia 7710 touchscreen 2004). TESTO DEFINITIVO pronto per voiceover.
 - `titles.md` ✅ (consigliato #2: "Nokia Saw the Future — And Still Lost Everything")
 - `thumbnail-brief.md` ✅ · `shotlist-higgsfield.md` ✅ (9 scene Higgsfield, 33%) · `metadata.md` ✅
 - **Tesi EP001:** errore fatale = cultura della paura (la verità non saliva ai vertici; ricerca Huy & Vuori INSEAD).
@@ -88,10 +88,14 @@ Modello usato: `kling3_0`, 5s, 16:9, ~10 crediti/clip.
 ---
 
 ## 6. PROSSIMI PASSI (in ordine — UN EPISODIO ALLA VOLTA)
-1. ✅ FATTO — EP001: fatti Nokia verificati, research.md e script.md aggiornati.
-2. **[PROSSIMO] EP001: espandere lo script a 1.800–2.300 parole** con i dettagli verificati (NON inventare cifre). Verificare il dettaglio "prototipi Nokia pre-iPhone".
-3. EP001: definire voce ElevenLabs, generare i B-roll Higgsfield della shotlist, montaggio DaVinci. → poi EP001 = PRONTO/PUBBLICABILE.
-4. SOLO DOPO che EP001 è chiuso: riprendere EP002 BlackBerry (titoli, thumb, shotlist, metadata, espansione script).
+1. ✅ FATTO — EP001: fatti Nokia verificati (research.md + script.md).
+2. ✅ FATTO — EP001: script espanso a ~2.050 parole, narrazione definitiva.
+3. **[PROSSIMO] EP001: produzione asset visivi** — generare con Higgsfield i 12
+   B-roll della shotlist (INTRO-001 e FEAR-001 già generati come test); reperire
+   stock/archivio; definire voce ElevenLabs; voiceover; montaggio DaVinci.
+   → poi EP001 = PRONTO/PUBBLICABILE.
+4. SOLO DOPO che EP001 è chiuso: riprendere EP002 BlackBerry (titoli, thumb,
+   shotlist, metadata, espansione script — i fatti sono già verificati).
 5. Poi EP003 Yahoo, EP004 WeWork (4 video in banca prima del lancio).
 
 ---
